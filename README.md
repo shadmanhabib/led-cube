@@ -1,2 +1,2 @@
-# led-cube
+# LED-Cube
 Repository of LED Cube project.
