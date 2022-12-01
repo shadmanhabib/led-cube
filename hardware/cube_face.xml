@@ -1,0 +1,759 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="E">
+  <design>
+    <source>/Users/shadmanhabib/Documents/Personal/Projects/LED Projects/LED_cube/working/cube_face.kicad_sch</source>
+    <date>Friday, 21 October 2022 at 11:01:27 am</date>
+    <tool>Eeschema (6.0.0-0)</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>cube_face.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="C1">
+      <value>100n</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="cube_face.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8d79835d-aa9f-4ff8-8516-3d3dced6037e</tstamps>
+    </comp>
+    <comp ref="C2">
+      <value>100n</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="cube_face.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8e6c99a6-0ddf-4286-88ef-2f9b57cf9f93</tstamps>
+    </comp>
+    <comp ref="C3">
+      <value>100n</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="cube_face.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>749f129a-da40-4551-8344-ee7628bb1dec</tstamps>
+    </comp>
+    <comp ref="C4">
+      <value>100n</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="cube_face.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>63eb188c-1b9a-4c15-be4f-959cd4cb235c</tstamps>
+    </comp>
+    <comp ref="C5">
+      <value>100n</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="cube_face.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ccdb21d5-a0ff-47ca-9a1f-8a0c982adde3</tstamps>
+    </comp>
+    <comp ref="C6">
+      <value>100n</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="cube_face.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2c10ebd0-35b0-46db-949e-f18d5651ec76</tstamps>
+    </comp>
+    <comp ref="C7">
+      <value>100n</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="cube_face.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2c727e96-a3d0-4d6c-8dcc-31935031b680</tstamps>
+    </comp>
+    <comp ref="C8">
+      <value>100n</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="cube_face.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ca1be21c-dcc6-4ed6-95ef-fc484c972c9f</tstamps>
+    </comp>
+    <comp ref="C9">
+      <value>100n</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="cube_face.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e9627f10-51f2-4979-8156-38d53605c200</tstamps>
+    </comp>
+    <comp ref="C10">
+      <value>100n</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="cube_face.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b34588a8-1417-4351-ab8d-184680f43c1f</tstamps>
+    </comp>
+    <comp ref="C11">
+      <value>100n</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="cube_face.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8fbe5c43-e0d1-4f68-803a-33ef56ff8ec9</tstamps>
+    </comp>
+    <comp ref="C12">
+      <value>100n</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="cube_face.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9263f343-9925-46e0-8c0f-1bd177fa7c79</tstamps>
+    </comp>
+    <comp ref="C13">
+      <value>100n</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="cube_face.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8aa55287-013b-4e23-89e6-05fa2f555761</tstamps>
+    </comp>
+    <comp ref="C14">
+      <value>100n</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="cube_face.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ceff7e1d-1dfd-47e7-b0c8-91fea6f77a39</tstamps>
+    </comp>
+    <comp ref="C15">
+      <value>100n</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="cube_face.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c494d2f0-8ece-4a3f-920e-329eb564f1d1</tstamps>
+    </comp>
+    <comp ref="C16">
+      <value>100n</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="cube_face.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>bd303a7d-fc66-4ce4-af3c-bec3ae34256d</tstamps>
+    </comp>
+    <comp ref="C17">
+      <value>100n</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="cube_face.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8ce4231a-086e-410a-a490-b0288ec6d7a1</tstamps>
+    </comp>
+    <comp ref="C18">
+      <value>100n</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="cube_face.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9e5db469-5eb6-47d3-a92b-2a1f383adfee</tstamps>
+    </comp>
+    <comp ref="C19">
+      <value>100n</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="cube_face.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8bd53309-6b39-4ad9-84db-753329c18ced</tstamps>
+    </comp>
+    <comp ref="C20">
+      <value>100n</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="cube_face.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>195ef2b3-0e93-4fbf-9686-6f0ac4ab5d66</tstamps>
+    </comp>
+    <comp ref="D1">
+      <value>WS2812B-2020</value>
+      <footprint>WS2812B-2020:WS2812B-2020</footprint>
+      <datasheet>https://www.mouser.com/pdfDocs/WS2812B-2020_V10_EN_181106150240761.pdf</datasheet>
+      <libsource lib="WS2812B-2020" part="WS2812B-2020" description="RGB LED with integrated controller"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="cube_face.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f54614dc-ae4d-4610-9516-82bde11f3707</tstamps>
+    </comp>
+    <comp ref="D2">
+      <value>WS2812B-2020</value>
+      <footprint>WS2812B-2020:WS2812B-2020</footprint>
+      <datasheet>https://www.mouser.com/pdfDocs/WS2812B-2020_V10_EN_181106150240761.pdf</datasheet>
+      <libsource lib="WS2812B-2020" part="WS2812B-2020" description="RGB LED with integrated controller"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="cube_face.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a4f347fa-dbcc-4733-88b9-b924cafef123</tstamps>
+    </comp>
+    <comp ref="D3">
+      <value>WS2812B-2020</value>
+      <footprint>WS2812B-2020:WS2812B-2020</footprint>
+      <datasheet>https://www.mouser.com/pdfDocs/WS2812B-2020_V10_EN_181106150240761.pdf</datasheet>
+      <libsource lib="WS2812B-2020" part="WS2812B-2020" description="RGB LED with integrated controller"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="cube_face.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>adaaf4b1-9d04-4a13-8689-0f6471057ef6</tstamps>
+    </comp>
+    <comp ref="D4">
+      <value>WS2812B-2020</value>
+      <footprint>WS2812B-2020:WS2812B-2020</footprint>
+      <datasheet>https://www.mouser.com/pdfDocs/WS2812B-2020_V10_EN_181106150240761.pdf</datasheet>
+      <libsource lib="WS2812B-2020" part="WS2812B-2020" description="RGB LED with integrated controller"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="cube_face.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9086fe04-eb52-41d9-ac4b-0a04b7907fa3</tstamps>
+    </comp>
+    <comp ref="D5">
+      <value>WS2812B-2020</value>
+      <footprint>WS2812B-2020:WS2812B-2020</footprint>
+      <datasheet>https://www.mouser.com/pdfDocs/WS2812B-2020_V10_EN_181106150240761.pdf</datasheet>
+      <libsource lib="WS2812B-2020" part="WS2812B-2020" description="RGB LED with integrated controller"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="cube_face.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7cea8e39-f8bd-4dd0-8f44-938fba7c69e1</tstamps>
+    </comp>
+    <comp ref="D6">
+      <value>WS2812B-2020</value>
+      <footprint>WS2812B-2020:WS2812B-2020</footprint>
+      <datasheet>https://www.mouser.com/pdfDocs/WS2812B-2020_V10_EN_181106150240761.pdf</datasheet>
+      <libsource lib="WS2812B-2020" part="WS2812B-2020" description="RGB LED with integrated controller"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="cube_face.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>39811676-3636-4597-b7dc-e9cc1ab254a7</tstamps>
+    </comp>
+    <comp ref="D7">
+      <value>WS2812B-2020</value>
+      <footprint>WS2812B-2020:WS2812B-2020</footprint>
+      <datasheet>https://www.mouser.com/pdfDocs/WS2812B-2020_V10_EN_181106150240761.pdf</datasheet>
+      <libsource lib="WS2812B-2020" part="WS2812B-2020" description="RGB LED with integrated controller"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="cube_face.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>04da91ea-7c26-4141-8606-d84350dcc411</tstamps>
+    </comp>
+    <comp ref="D8">
+      <value>WS2812B-2020</value>
+      <footprint>WS2812B-2020:WS2812B-2020</footprint>
+      <datasheet>https://www.mouser.com/pdfDocs/WS2812B-2020_V10_EN_181106150240761.pdf</datasheet>
+      <libsource lib="WS2812B-2020" part="WS2812B-2020" description="RGB LED with integrated controller"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="cube_face.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a7cf59ce-640d-471d-8bbf-6aa3543966af</tstamps>
+    </comp>
+    <comp ref="D9">
+      <value>WS2812B-2020</value>
+      <footprint>WS2812B-2020:WS2812B-2020</footprint>
+      <datasheet>https://www.mouser.com/pdfDocs/WS2812B-2020_V10_EN_181106150240761.pdf</datasheet>
+      <libsource lib="WS2812B-2020" part="WS2812B-2020" description="RGB LED with integrated controller"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="cube_face.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>46971da5-51e1-4caa-944e-7bad87fa01e5</tstamps>
+    </comp>
+    <comp ref="D10">
+      <value>WS2812B-2020</value>
+      <footprint>WS2812B-2020:WS2812B-2020</footprint>
+      <datasheet>https://www.mouser.com/pdfDocs/WS2812B-2020_V10_EN_181106150240761.pdf</datasheet>
+      <libsource lib="WS2812B-2020" part="WS2812B-2020" description="RGB LED with integrated controller"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="cube_face.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>de289673-cf9b-43a0-96ab-22181348a18d</tstamps>
+    </comp>
+    <comp ref="D11">
+      <value>WS2812B-2020</value>
+      <footprint>WS2812B-2020:WS2812B-2020</footprint>
+      <datasheet>https://www.mouser.com/pdfDocs/WS2812B-2020_V10_EN_181106150240761.pdf</datasheet>
+      <libsource lib="WS2812B-2020" part="WS2812B-2020" description="RGB LED with integrated controller"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="cube_face.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d9822c86-b473-4a4a-b513-95c5b466d8e3</tstamps>
+    </comp>
+    <comp ref="D12">
+      <value>WS2812B-2020</value>
+      <footprint>WS2812B-2020:WS2812B-2020</footprint>
+      <datasheet>https://www.mouser.com/pdfDocs/WS2812B-2020_V10_EN_181106150240761.pdf</datasheet>
+      <libsource lib="WS2812B-2020" part="WS2812B-2020" description="RGB LED with integrated controller"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="cube_face.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e2516a09-f779-4114-982d-2d3c4ac4b07a</tstamps>
+    </comp>
+    <comp ref="D13">
+      <value>WS2812B-2020</value>
+      <footprint>WS2812B-2020:WS2812B-2020</footprint>
+      <datasheet>https://www.mouser.com/pdfDocs/WS2812B-2020_V10_EN_181106150240761.pdf</datasheet>
+      <libsource lib="WS2812B-2020" part="WS2812B-2020" description="RGB LED with integrated controller"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="cube_face.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>70a8c16e-8497-4dd4-87a0-46c1902e06c3</tstamps>
+    </comp>
+    <comp ref="D14">
+      <value>WS2812B-2020</value>
+      <footprint>WS2812B-2020:WS2812B-2020</footprint>
+      <datasheet>https://www.mouser.com/pdfDocs/WS2812B-2020_V10_EN_181106150240761.pdf</datasheet>
+      <libsource lib="WS2812B-2020" part="WS2812B-2020" description="RGB LED with integrated controller"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="cube_face.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>04cfdbd4-4bef-4476-971b-b5bd7ca07b79</tstamps>
+    </comp>
+    <comp ref="D15">
+      <value>WS2812B-2020</value>
+      <footprint>WS2812B-2020:WS2812B-2020</footprint>
+      <datasheet>https://www.mouser.com/pdfDocs/WS2812B-2020_V10_EN_181106150240761.pdf</datasheet>
+      <libsource lib="WS2812B-2020" part="WS2812B-2020" description="RGB LED with integrated controller"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="cube_face.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>94dd46ea-fa80-426f-baed-0fd7f967671f</tstamps>
+    </comp>
+    <comp ref="D16">
+      <value>WS2812B-2020</value>
+      <footprint>WS2812B-2020:WS2812B-2020</footprint>
+      <datasheet>https://www.mouser.com/pdfDocs/WS2812B-2020_V10_EN_181106150240761.pdf</datasheet>
+      <libsource lib="WS2812B-2020" part="WS2812B-2020" description="RGB LED with integrated controller"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="cube_face.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7e29dafd-5428-46e3-9fbc-c8b6ce2d1901</tstamps>
+    </comp>
+    <comp ref="D17">
+      <value>WS2812B-2020</value>
+      <footprint>WS2812B-2020:WS2812B-2020</footprint>
+      <datasheet>https://www.mouser.com/pdfDocs/WS2812B-2020_V10_EN_181106150240761.pdf</datasheet>
+      <libsource lib="WS2812B-2020" part="WS2812B-2020" description="RGB LED with integrated controller"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="cube_face.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>999df928-899a-496a-b48c-fb9710679a30</tstamps>
+    </comp>
+    <comp ref="D18">
+      <value>WS2812B-2020</value>
+      <footprint>WS2812B-2020:WS2812B-2020</footprint>
+      <datasheet>https://www.mouser.com/pdfDocs/WS2812B-2020_V10_EN_181106150240761.pdf</datasheet>
+      <libsource lib="WS2812B-2020" part="WS2812B-2020" description="RGB LED with integrated controller"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="cube_face.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>07dd4683-38f5-4fdd-a137-352bc6608a50</tstamps>
+    </comp>
+    <comp ref="D19">
+      <value>WS2812B-2020</value>
+      <footprint>WS2812B-2020:WS2812B-2020</footprint>
+      <datasheet>https://www.mouser.com/pdfDocs/WS2812B-2020_V10_EN_181106150240761.pdf</datasheet>
+      <libsource lib="WS2812B-2020" part="WS2812B-2020" description="RGB LED with integrated controller"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="cube_face.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1c39747b-5520-4d2c-b183-2e1a49d9334d</tstamps>
+    </comp>
+    <comp ref="D20">
+      <value>WS2812B-2020</value>
+      <footprint>WS2812B-2020:WS2812B-2020</footprint>
+      <datasheet>https://www.mouser.com/pdfDocs/WS2812B-2020_V10_EN_181106150240761.pdf</datasheet>
+      <libsource lib="WS2812B-2020" part="WS2812B-2020" description="RGB LED with integrated controller"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="cube_face.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3e343909-10f5-40e1-b11d-13b9d38e65c2</tstamps>
+    </comp>
+    <comp ref="D21">
+      <value>WS2812B-2020</value>
+      <footprint>WS2812B-2020:WS2812B-2020</footprint>
+      <datasheet>https://www.mouser.com/pdfDocs/WS2812B-2020_V10_EN_181106150240761.pdf</datasheet>
+      <libsource lib="WS2812B-2020" part="WS2812B-2020" description="RGB LED with integrated controller"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="cube_face.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>61c24321-74ed-407c-9033-74c259461255</tstamps>
+    </comp>
+    <comp ref="D22">
+      <value>WS2812B-2020</value>
+      <footprint>WS2812B-2020:WS2812B-2020</footprint>
+      <datasheet>https://www.mouser.com/pdfDocs/WS2812B-2020_V10_EN_181106150240761.pdf</datasheet>
+      <libsource lib="WS2812B-2020" part="WS2812B-2020" description="RGB LED with integrated controller"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="cube_face.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>370eb4ba-e514-4c29-b148-956ef59e677a</tstamps>
+    </comp>
+    <comp ref="D23">
+      <value>WS2812B-2020</value>
+      <footprint>WS2812B-2020:WS2812B-2020</footprint>
+      <datasheet>https://www.mouser.com/pdfDocs/WS2812B-2020_V10_EN_181106150240761.pdf</datasheet>
+      <libsource lib="WS2812B-2020" part="WS2812B-2020" description="RGB LED with integrated controller"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="cube_face.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d0859422-0df1-4df7-8608-02796d4d97a3</tstamps>
+    </comp>
+    <comp ref="D24">
+      <value>WS2812B-2020</value>
+      <footprint>WS2812B-2020:WS2812B-2020</footprint>
+      <datasheet>https://www.mouser.com/pdfDocs/WS2812B-2020_V10_EN_181106150240761.pdf</datasheet>
+      <libsource lib="WS2812B-2020" part="WS2812B-2020" description="RGB LED with integrated controller"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="cube_face.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5590994a-b686-43c4-ade4-44b4aa5106f5</tstamps>
+    </comp>
+    <comp ref="D25">
+      <value>WS2812B-2020</value>
+      <footprint>WS2812B-2020:WS2812B-2020</footprint>
+      <datasheet>https://www.mouser.com/pdfDocs/WS2812B-2020_V10_EN_181106150240761.pdf</datasheet>
+      <libsource lib="WS2812B-2020" part="WS2812B-2020" description="RGB LED with integrated controller"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="cube_face.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>65ff97c3-42ee-4a7d-bac0-0a07e0ff3cf6</tstamps>
+    </comp>
+    <comp ref="J1">
+      <value>Conn_01x01_Male</value>
+      <footprint>Connector_Wire:SolderWirePad_1x01_SMD_5x10mm</footprint>
+      <libsource lib="Connector" part="Conn_01x01_Male" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="cube_face.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1a28e974-b40d-499c-82de-ed34e700e3d1</tstamps>
+    </comp>
+    <comp ref="J2">
+      <value>Conn_01x01_Male</value>
+      <footprint>Connector_Wire:SolderWirePad_1x01_SMD_5x10mm</footprint>
+      <libsource lib="Connector" part="Conn_01x01_Male" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="cube_face.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6f37964f-bb5e-4327-b54f-f0800b83f6f0</tstamps>
+    </comp>
+    <comp ref="J3">
+      <value>Conn_01x01_Male</value>
+      <footprint>Connector_Wire:SolderWirePad_1x01_SMD_5x10mm</footprint>
+      <libsource lib="Connector" part="Conn_01x01_Male" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="cube_face.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>38ade67a-17b8-41c5-a0ea-fbdc538fc28c</tstamps>
+    </comp>
+    <comp ref="J4">
+      <value>Conn_01x01_Male</value>
+      <footprint>Connector_Wire:SolderWirePad_1x01_SMD_5x10mm</footprint>
+      <libsource lib="Connector" part="Conn_01x01_Male" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="cube_face.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8dcb4d87-76ee-416c-835e-5fbb84a654b4</tstamps>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="Connector" part="Conn_01x01_Male">
+      <description>Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_01x01_Male</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="C">
+      <description>Unpolarized capacitor</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>C_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="WS2812B-2020" part="WS2812B-2020">
+      <description>RGB LED with integrated controller</description>
+      <docs>https://www.mouser.com/pdfDocs/WS2812B-2020_V10_EN_181106150240761.pdf</docs>
+      <footprints>
+        <fp>LED*WS2812*PLCC*5.0x5.0mm*P3.2mm*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">WS2812B-2020</field>
+        <field name="Footprint">WS2812B-2020:WS2812B-2020</field>
+        <field name="Datasheet">https://www.mouser.com/pdfDocs/WS2812B-2020_V10_EN_181106150240761.pdf</field>
+      </fields>
+      <pins>
+        <pin num="1" name="DOUT" type="output"/>
+        <pin num="2" name="GND" type="power_in"/>
+        <pin num="3" name="DIN" type="input"/>
+        <pin num="4" name="VDD" type="power_in"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="Connector">
+      <uri>/Applications/KiCad/KiCad.app/Contents/SharedSupport/symbols//Connector.kicad_sym</uri>
+    </library>
+    <library logical="Device">
+      <uri>/Applications/KiCad/KiCad.app/Contents/SharedSupport/symbols//Device.kicad_sym</uri>
+    </library>
+    <library logical="WS2812B-2020">
+      <uri>/Users/shadmanhabib/Documents/Personal/Projects/LED Projects/LED_cube/working/libraries/WS2812B-2020.kicad_sym</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="/DIN">
+      <node ref="D1" pin="3" pinfunction="DIN" pintype="input"/>
+      <node ref="J2" pin="1" pinfunction="Pin_1" pintype="passive"/>
+    </net>
+    <net code="2" name="/DOUT">
+      <node ref="D25" pin="1" pinfunction="DOUT" pintype="output"/>
+      <node ref="J3" pin="1" pinfunction="Pin_1" pintype="passive"/>
+    </net>
+    <net code="3" name="/DOUT_R1">
+      <node ref="D2" pin="3" pinfunction="DIN" pintype="input"/>
+      <node ref="D21" pin="1" pinfunction="DOUT" pintype="output"/>
+    </net>
+    <net code="4" name="/DOUT_R2">
+      <node ref="D22" pin="1" pinfunction="DOUT" pintype="output"/>
+      <node ref="D3" pin="3" pinfunction="DIN" pintype="input"/>
+    </net>
+    <net code="5" name="/DOUT_R3">
+      <node ref="D23" pin="1" pinfunction="DOUT" pintype="output"/>
+      <node ref="D4" pin="3" pinfunction="DIN" pintype="input"/>
+    </net>
+    <net code="6" name="/DOUT_R4">
+      <node ref="D24" pin="1" pinfunction="DOUT" pintype="output"/>
+      <node ref="D5" pin="3" pinfunction="DIN" pintype="input"/>
+    </net>
+    <net code="7" name="GND">
+      <node ref="C1" pin="2" pintype="passive"/>
+      <node ref="C10" pin="2" pintype="passive"/>
+      <node ref="C11" pin="2" pintype="passive"/>
+      <node ref="C12" pin="2" pintype="passive"/>
+      <node ref="C13" pin="2" pintype="passive"/>
+      <node ref="C14" pin="2" pintype="passive"/>
+      <node ref="C15" pin="2" pintype="passive"/>
+      <node ref="C16" pin="2" pintype="passive"/>
+      <node ref="C17" pin="2" pintype="passive"/>
+      <node ref="C18" pin="2" pintype="passive"/>
+      <node ref="C19" pin="2" pintype="passive"/>
+      <node ref="C2" pin="2" pintype="passive"/>
+      <node ref="C20" pin="2" pintype="passive"/>
+      <node ref="C3" pin="2" pintype="passive"/>
+      <node ref="C4" pin="2" pintype="passive"/>
+      <node ref="C5" pin="2" pintype="passive"/>
+      <node ref="C6" pin="2" pintype="passive"/>
+      <node ref="C7" pin="2" pintype="passive"/>
+      <node ref="C8" pin="2" pintype="passive"/>
+      <node ref="C9" pin="2" pintype="passive"/>
+      <node ref="D1" pin="2" pinfunction="GND" pintype="power_in"/>
+      <node ref="D10" pin="2" pinfunction="GND" pintype="power_in"/>
+      <node ref="D11" pin="2" pinfunction="GND" pintype="power_in"/>
+      <node ref="D12" pin="2" pinfunction="GND" pintype="power_in"/>
+      <node ref="D13" pin="2" pinfunction="GND" pintype="power_in"/>
+      <node ref="D14" pin="2" pinfunction="GND" pintype="power_in"/>
+      <node ref="D15" pin="2" pinfunction="GND" pintype="power_in"/>
+      <node ref="D16" pin="2" pinfunction="GND" pintype="power_in"/>
+      <node ref="D17" pin="2" pinfunction="GND" pintype="power_in"/>
+      <node ref="D18" pin="2" pinfunction="GND" pintype="power_in"/>
+      <node ref="D19" pin="2" pinfunction="GND" pintype="power_in"/>
+      <node ref="D2" pin="2" pinfunction="GND" pintype="power_in"/>
+      <node ref="D20" pin="2" pinfunction="GND" pintype="power_in"/>
+      <node ref="D21" pin="2" pinfunction="GND" pintype="power_in"/>
+      <node ref="D22" pin="2" pinfunction="GND" pintype="power_in"/>
+      <node ref="D23" pin="2" pinfunction="GND" pintype="power_in"/>
+      <node ref="D24" pin="2" pinfunction="GND" pintype="power_in"/>
+      <node ref="D25" pin="2" pinfunction="GND" pintype="power_in"/>
+      <node ref="D3" pin="2" pinfunction="GND" pintype="power_in"/>
+      <node ref="D4" pin="2" pinfunction="GND" pintype="power_in"/>
+      <node ref="D5" pin="2" pinfunction="GND" pintype="power_in"/>
+      <node ref="D6" pin="2" pinfunction="GND" pintype="power_in"/>
+      <node ref="D7" pin="2" pinfunction="GND" pintype="power_in"/>
+      <node ref="D8" pin="2" pinfunction="GND" pintype="power_in"/>
+      <node ref="D9" pin="2" pinfunction="GND" pintype="power_in"/>
+      <node ref="J4" pin="1" pinfunction="Pin_1" pintype="passive"/>
+    </net>
+    <net code="8" name="Net-(D1-Pad1)">
+      <node ref="D1" pin="1" pinfunction="DOUT" pintype="output"/>
+      <node ref="D6" pin="3" pinfunction="DIN" pintype="input"/>
+    </net>
+    <net code="9" name="Net-(D2-Pad1)">
+      <node ref="D2" pin="1" pinfunction="DOUT" pintype="output"/>
+      <node ref="D7" pin="3" pinfunction="DIN" pintype="input"/>
+    </net>
+    <net code="10" name="Net-(D3-Pad1)">
+      <node ref="D3" pin="1" pinfunction="DOUT" pintype="output"/>
+      <node ref="D8" pin="3" pinfunction="DIN" pintype="input"/>
+    </net>
+    <net code="11" name="Net-(D4-Pad1)">
+      <node ref="D4" pin="1" pinfunction="DOUT" pintype="output"/>
+      <node ref="D9" pin="3" pinfunction="DIN" pintype="input"/>
+    </net>
+    <net code="12" name="Net-(D10-Pad1)">
+      <node ref="D10" pin="1" pinfunction="DOUT" pintype="output"/>
+      <node ref="D15" pin="3" pinfunction="DIN" pintype="input"/>
+    </net>
+    <net code="13" name="Net-(D10-Pad3)">
+      <node ref="D10" pin="3" pinfunction="DIN" pintype="input"/>
+      <node ref="D5" pin="1" pinfunction="DOUT" pintype="output"/>
+    </net>
+    <net code="14" name="Net-(D11-Pad1)">
+      <node ref="D11" pin="1" pinfunction="DOUT" pintype="output"/>
+      <node ref="D16" pin="3" pinfunction="DIN" pintype="input"/>
+    </net>
+    <net code="15" name="Net-(D11-Pad3)">
+      <node ref="D11" pin="3" pinfunction="DIN" pintype="input"/>
+      <node ref="D6" pin="1" pinfunction="DOUT" pintype="output"/>
+    </net>
+    <net code="16" name="Net-(D12-Pad1)">
+      <node ref="D12" pin="1" pinfunction="DOUT" pintype="output"/>
+      <node ref="D17" pin="3" pinfunction="DIN" pintype="input"/>
+    </net>
+    <net code="17" name="Net-(D12-Pad3)">
+      <node ref="D12" pin="3" pinfunction="DIN" pintype="input"/>
+      <node ref="D7" pin="1" pinfunction="DOUT" pintype="output"/>
+    </net>
+    <net code="18" name="Net-(D13-Pad1)">
+      <node ref="D13" pin="1" pinfunction="DOUT" pintype="output"/>
+      <node ref="D18" pin="3" pinfunction="DIN" pintype="input"/>
+    </net>
+    <net code="19" name="Net-(D13-Pad3)">
+      <node ref="D13" pin="3" pinfunction="DIN" pintype="input"/>
+      <node ref="D8" pin="1" pinfunction="DOUT" pintype="output"/>
+    </net>
+    <net code="20" name="Net-(D14-Pad1)">
+      <node ref="D14" pin="1" pinfunction="DOUT" pintype="output"/>
+      <node ref="D19" pin="3" pinfunction="DIN" pintype="input"/>
+    </net>
+    <net code="21" name="Net-(D14-Pad3)">
+      <node ref="D14" pin="3" pinfunction="DIN" pintype="input"/>
+      <node ref="D9" pin="1" pinfunction="DOUT" pintype="output"/>
+    </net>
+    <net code="22" name="Net-(D15-Pad1)">
+      <node ref="D15" pin="1" pinfunction="DOUT" pintype="output"/>
+      <node ref="D20" pin="3" pinfunction="DIN" pintype="input"/>
+    </net>
+    <net code="23" name="Net-(D16-Pad1)">
+      <node ref="D16" pin="1" pinfunction="DOUT" pintype="output"/>
+      <node ref="D21" pin="3" pinfunction="DIN" pintype="input"/>
+    </net>
+    <net code="24" name="Net-(D17-Pad1)">
+      <node ref="D17" pin="1" pinfunction="DOUT" pintype="output"/>
+      <node ref="D22" pin="3" pinfunction="DIN" pintype="input"/>
+    </net>
+    <net code="25" name="Net-(D18-Pad1)">
+      <node ref="D18" pin="1" pinfunction="DOUT" pintype="output"/>
+      <node ref="D23" pin="3" pinfunction="DIN" pintype="input"/>
+    </net>
+    <net code="26" name="Net-(D19-Pad1)">
+      <node ref="D19" pin="1" pinfunction="DOUT" pintype="output"/>
+      <node ref="D24" pin="3" pinfunction="DIN" pintype="input"/>
+    </net>
+    <net code="27" name="Net-(D20-Pad1)">
+      <node ref="D20" pin="1" pinfunction="DOUT" pintype="output"/>
+      <node ref="D25" pin="3" pinfunction="DIN" pintype="input"/>
+    </net>
+    <net code="28" name="VDD">
+      <node ref="C1" pin="1" pintype="passive"/>
+      <node ref="C10" pin="1" pintype="passive"/>
+      <node ref="C11" pin="1" pintype="passive"/>
+      <node ref="C12" pin="1" pintype="passive"/>
+      <node ref="C13" pin="1" pintype="passive"/>
+      <node ref="C14" pin="1" pintype="passive"/>
+      <node ref="C15" pin="1" pintype="passive"/>
+      <node ref="C16" pin="1" pintype="passive"/>
+      <node ref="C17" pin="1" pintype="passive"/>
+      <node ref="C18" pin="1" pintype="passive"/>
+      <node ref="C19" pin="1" pintype="passive"/>
+      <node ref="C2" pin="1" pintype="passive"/>
+      <node ref="C20" pin="1" pintype="passive"/>
+      <node ref="C3" pin="1" pintype="passive"/>
+      <node ref="C4" pin="1" pintype="passive"/>
+      <node ref="C5" pin="1" pintype="passive"/>
+      <node ref="C6" pin="1" pintype="passive"/>
+      <node ref="C7" pin="1" pintype="passive"/>
+      <node ref="C8" pin="1" pintype="passive"/>
+      <node ref="C9" pin="1" pintype="passive"/>
+      <node ref="D1" pin="4" pinfunction="VDD" pintype="power_in"/>
+      <node ref="D10" pin="4" pinfunction="VDD" pintype="power_in"/>
+      <node ref="D11" pin="4" pinfunction="VDD" pintype="power_in"/>
+      <node ref="D12" pin="4" pinfunction="VDD" pintype="power_in"/>
+      <node ref="D13" pin="4" pinfunction="VDD" pintype="power_in"/>
+      <node ref="D14" pin="4" pinfunction="VDD" pintype="power_in"/>
+      <node ref="D15" pin="4" pinfunction="VDD" pintype="power_in"/>
+      <node ref="D16" pin="4" pinfunction="VDD" pintype="power_in"/>
+      <node ref="D17" pin="4" pinfunction="VDD" pintype="power_in"/>
+      <node ref="D18" pin="4" pinfunction="VDD" pintype="power_in"/>
+      <node ref="D19" pin="4" pinfunction="VDD" pintype="power_in"/>
+      <node ref="D2" pin="4" pinfunction="VDD" pintype="power_in"/>
+      <node ref="D20" pin="4" pinfunction="VDD" pintype="power_in"/>
+      <node ref="D21" pin="4" pinfunction="VDD" pintype="power_in"/>
+      <node ref="D22" pin="4" pinfunction="VDD" pintype="power_in"/>
+      <node ref="D23" pin="4" pinfunction="VDD" pintype="power_in"/>
+      <node ref="D24" pin="4" pinfunction="VDD" pintype="power_in"/>
+      <node ref="D25" pin="4" pinfunction="VDD" pintype="power_in"/>
+      <node ref="D3" pin="4" pinfunction="VDD" pintype="power_in"/>
+      <node ref="D4" pin="4" pinfunction="VDD" pintype="power_in"/>
+      <node ref="D5" pin="4" pinfunction="VDD" pintype="power_in"/>
+      <node ref="D6" pin="4" pinfunction="VDD" pintype="power_in"/>
+      <node ref="D7" pin="4" pinfunction="VDD" pintype="power_in"/>
+      <node ref="D8" pin="4" pinfunction="VDD" pintype="power_in"/>
+      <node ref="D9" pin="4" pinfunction="VDD" pintype="power_in"/>
+      <node ref="J1" pin="1" pinfunction="Pin_1" pintype="passive"/>
+    </net>
+  </nets>
+</export>
